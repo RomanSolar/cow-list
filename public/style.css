@@ -1,0 +1,29 @@
+body {
+  background-color: lightblue;
+}
+
+h2 {
+  color: black;
+  margin-left: 20px;
+}
+
+.list {
+  border-style: solid;
+  border-color: green;
+}
+
+.headcow {
+  border-style: solid;
+  border-color: green;
+}
+
+
+.adder {
+  border-style: solid;
+  border-color: green;
+}
+
+li {
+  border-style: solid;
+  border-color: green;
+}
